@@ -1,0 +1,180 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "red_team",
+      "points": [
+        [
+          85.99968,
+          464.0004
+        ],
+        [
+          219.0,
+          682.00056
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "red_team",
+      "points": [
+        [
+          832.00128,
+          487.00007999999997
+        ],
+        [
+          914.00064,
+          706.0003200000001
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "white_team",
+      "points": [
+        [
+          946.99968,
+          527.00004
+        ],
+        [
+          1059.99936,
+          745.0002
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "white_team",
+      "points": [
+        [
+          1036.99968,
+          469.00026
+        ],
+        [
+          1135.99872,
+          677.0007
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "white_team",
+      "points": [
+        [
+          867.00096,
+          394.99974000000003
+        ],
+        [
+          937.00032,
+          547.0000200000001
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "white_team",
+      "points": [
+        [
+          1302.00096,
+          671.00022
+        ],
+        [
+          1440.0009599999998,
+          1004.9999399999999
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "white_team",
+      "points": [
+        [
+          1515.99936,
+          569.0001599999999
+        ],
+        [
+          1666.9996800000001,
+          778.99968
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "red_team",
+      "points": [
+        [
+          1669.00032,
+          469.00025999999997
+        ],
+        [
+          1774.99968,
+          672.0002999999999
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "red_team",
+      "points": [
+        [
+          1777.00032,
+          446.99958
+        ],
+        [
+          1894.9996800000001,
+          675.99954
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "referee",
+      "points": [
+        [
+          1356.99936,
+          440.0001
+        ],
+        [
+          1415.99904,
+          592.00038
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "frame_000000.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

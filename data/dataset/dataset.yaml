@@ -1,0 +1,9 @@
+path: C:\Users\gdra05\George_Code\soccer_player_tracking\data\dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 3
+names:
+- white_team
+- red_team
+- referee
