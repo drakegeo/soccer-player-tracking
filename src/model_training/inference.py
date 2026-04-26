@@ -63,9 +63,11 @@ def count_players_per_frame(
             _draw_counts(annotated, counts, team_names)
             if writer is None:
                 h, w = annotated.shape[:2]
+                ext = Path(output_video_path).suffix.lower()
+                fourcc = cv2.VideoWriter_fourcc(*"mp4v") if ext == ".mp4" else cv2.VideoWriter_fourcc(*"XVID")
                 writer = cv2.VideoWriter(
                     output_video_path,
-                    cv2.VideoWriter_fourcc(*"XVID"),
+                    fourcc,
                     source_fps,
                     (w, h),
                 )
